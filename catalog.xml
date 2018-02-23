@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/Minh/Workspaces/Study/XML/TestCraw/web/WEB-INF/Categories.xsd" uri="src/conf/xml-resources/jaxb/Categories/Categories.xsd"/>
+    <system systemId="file:/D:/Minh/Workspaces/Study/XML/TestCraw/web/WEB-INF/CategorySchema.xsd" uri="src/conf/xml-resources/jaxb/Categories/CategorySchema.xsd"/>
+    <system systemId="file:/D:/Minh/Workspaces/Study/XML/TestCraw/web/WEB-INF/ProductSchema.xsd" uri="src/conf/xml-resources/jaxb/Categories/ProductSchema.xsd"/>
+</catalog>
